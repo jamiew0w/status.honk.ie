@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/plex.honk.ie",
     "slug": "plex-honk-ie",
     "status": "up",
-    "uptime": "4.82%",
-    "uptimeDay": "4.82%",
-    "uptimeWeek": "4.82%",
-    "uptimeMonth": "4.82%",
-    "uptimeYear": "4.82%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 710,
     "timeDay": 710,
     "timeWeek": 710,
     "timeMonth": 710,
     "timeYear": 710,
-    "dailyMinutesDown": {
-      "2021-01-18": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ombi.honk.ie",
@@ -61,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/tautulli.honk.ie",
     "slug": "tautulli",
     "status": "up",
-    "uptime": "6.11%",
-    "uptimeDay": "6.11%",
-    "uptimeWeek": "6.11%",
-    "uptimeMonth": "6.11%",
-    "uptimeYear": "6.11%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 611,
     "timeDay": 611,
     "timeWeek": 611,
     "timeMonth": 611,
     "timeYear": 611,
-    "dailyMinutesDown": {
-      "2021-01-18": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
