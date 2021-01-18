@@ -10,7 +10,7 @@ sites:
     url: https://plex.honk.ie/web/index.html
   - name: ombi.honk.ie
     url: https://ombi.honk.ie
-  - name: tautulli
+  - name: tautulli.honk.ie
     url: https://tautulli.honk.ie/auth/login?redirect_uri=/
 
 assignees:
