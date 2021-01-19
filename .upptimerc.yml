@@ -25,7 +25,7 @@ status-website:
   name: status.honk.ie
   
 i18n:
-  footer:
+  footer: <a href="https://snuffed.me" target="_blank">snuffed.me</a>
 
 workflowSchedule:
   graphs: "*/5 * * * *"
