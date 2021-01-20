@@ -6,10 +6,13 @@ repo: status.honk.ie
 sites:
   - name: honk.ie
     url: https://honk.ie
+    icon: https://honk.ie/plugins/images/faviconCustom/favicon.ico
   - name: plex.honk.ie
     url: https://plex.honk.ie/web/index.html
+    icon: https://plex.honk.ie/web/favicon.ico
   - name: ombi.honk.ie
     url: https://ombi.honk.ie
+    icon: https://ombi.honk.ie/images/favicon/favicon.ico
   - name: tautulli.honk.ie
     url: https://tautulli.honk.ie/auth/login?redirect_uri=/
 
