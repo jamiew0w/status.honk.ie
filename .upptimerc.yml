@@ -2,6 +2,9 @@
 owner: jamiew0w
 repo: status.honk.ie
 
+status-page:
+  theme: "dark"
+  
 # Add your sites here
 sites:
   - name: honk.ie
