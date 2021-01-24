@@ -1,9 +1,6 @@
 # Change these first
 owner: jamiew0w
 repo: status.honk.ie
-
-status-page:
-  theme: "dark"
   
 # Add your sites here
 sites:
@@ -29,7 +26,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: status.honk.ie
-  
+  theme: "dark"
+
 i18n:
   footer: <a href="https://honk.ie" target="_blank">honk.ie</a>
 
