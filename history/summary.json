@@ -61,18 +61,16 @@
     "icon": "https://favicons.githubusercontent.com/tautulli.honk.ie",
     "slug": "tautulli-honk-ie",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 751,
     "timeDay": 1022,
     "timeWeek": 766,
     "timeMonth": 751,
     "timeYear": 751,
-    "dailyMinutesDown": {
-      "2021-01-29": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
