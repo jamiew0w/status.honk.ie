@@ -40,19 +40,19 @@
     "url": "https://ombi.honk.ie",
     "icon": "https://ombi.honk.ie/images/favicon/favicon.ico",
     "slug": "ombi-honk-ie",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "98.71%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 733,
-    "timeDay": 683,
+    "timeDay": 684,
     "timeWeek": 737,
     "timeMonth": 733,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2021-01-29": 19
+      "2021-01-29": 21
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://tautulli.honk.ie/auth/login?redirect_uri=/",
     "icon": "https://favicons.githubusercontent.com/tautulli.honk.ie",
     "slug": "tautulli-honk-ie",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 751,
-    "timeDay": 1024,
-    "timeWeek": 767,
+    "timeDay": 1022,
+    "timeWeek": 766,
     "timeMonth": 751,
     "timeYear": 751,
     "dailyMinutesDown": {
-      "2021-01-29": 1
+      "2021-01-29": 4
     }
   }
 ]
