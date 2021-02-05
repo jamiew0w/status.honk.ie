@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 772,
-    "timeDay": 676,
+    "timeDay": 675,
     "timeWeek": 707,
     "timeMonth": 772,
     "timeYear": 772,
@@ -22,18 +22,20 @@
     "url": "https://plex.honk.ie/web/index.html",
     "icon": "https://plex.honk.ie/web/favicon.ico",
     "slug": "plex-honk-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 695,
-    "timeDay": 636,
+    "timeDay": 635,
     "timeWeek": 632,
     "timeMonth": 695,
     "timeYear": 695,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   },
   {
     "name": "ombi.honk.ie",
@@ -67,7 +69,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 696,
-    "timeDay": 583,
+    "timeDay": 584,
     "timeWeek": 686,
     "timeMonth": 696,
     "timeYear": 696,
