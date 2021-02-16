@@ -27,7 +27,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: status.honk.ie
-  #theme: "ocean"
+  theme: "custom"
 
 i18n:
   footer: <a href="https://honk.ie" target="_blank">honk.ie</a>
