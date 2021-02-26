@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 675,
-    "timeDay": 619,
+    "timeDay": 622,
     "timeWeek": 616,
     "timeMonth": 659,
     "timeYear": 675,
@@ -29,8 +29,8 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.88%",
     "time": 601,
-    "timeDay": 512,
-    "timeWeek": 541,
+    "timeDay": 525,
+    "timeWeek": 542,
     "timeMonth": 585,
     "timeYear": 601,
     "dailyMinutesDown": {
@@ -44,19 +44,17 @@
     "icon": "https://ombi.honk.ie/images/favicon/favicon.ico",
     "slug": "ombi-honk-ie",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 655,
-    "timeDay": 598,
+    "timeDay": 604,
     "timeWeek": 651,
     "timeMonth": 647,
     "timeYear": 655,
-    "dailyMinutesDown": {
-      "2021-01-29": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "tautulli.honk.ie",
@@ -70,9 +68,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 625,
-    "timeDay": 564,
+    "timeDay": 583,
     "timeWeek": 610,
-    "timeMonth": 616,
+    "timeMonth": 617,
     "timeYear": 625,
     "dailyMinutesDown": {}
   }
