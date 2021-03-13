@@ -13,7 +13,7 @@
     "time": 666,
     "timeDay": 569,
     "timeWeek": 622,
-    "timeMonth": 623,
+    "timeMonth": 622,
     "timeYear": 666,
     "dailyMinutesDown": {}
   },
@@ -30,8 +30,8 @@
     "uptimeYear": "100.00%",
     "time": 603,
     "timeDay": 447,
-    "timeWeek": 501,
-    "timeMonth": 566,
+    "timeWeek": 507,
+    "timeMonth": 567,
     "timeYear": 603,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "https://ombi.honk.ie",
     "icon": "https://ombi.honk.ie/images/favicon/favicon.ico",
     "slug": "ombi-honk-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 645,
     "timeDay": 465,
     "timeWeek": 469,
-    "timeMonth": 620,
+    "timeMonth": 621,
     "timeYear": 645,
     "dailyMinutesDown": {}
   },
