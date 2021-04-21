@@ -60,19 +60,19 @@
     "url": "https://tautulli.honk.ie/auth/login?redirect_uri=/",
     "icon": "https://favicons.githubusercontent.com/tautulli.honk.ie",
     "slug": "tautulli-honk-ie",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "97.46%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.97%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.96%",
     "time": 626,
-    "timeDay": 943,
+    "timeDay": 930,
     "timeWeek": 698,
     "timeMonth": 700,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2021-04-21": 37
+      "2021-04-21": 51
     }
   }
 ]
