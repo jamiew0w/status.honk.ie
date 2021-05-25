@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 686,
-    "timeDay": 757,
-    "timeWeek": 717,
-    "timeMonth": 727,
+    "timeDay": 762,
+    "timeWeek": 720,
+    "timeMonth": 728,
     "timeYear": 686,
     "dailyMinutesDown": {}
   },
@@ -24,16 +24,18 @@
     "slug": "plex-honk-ie",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 620,
-    "timeDay": 685,
+    "timeDay": 673,
     "timeWeek": 644,
     "timeMonth": 658,
     "timeYear": 620,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-25": 1
+    }
   },
   {
     "name": "ombi.honk.ie",
@@ -47,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 659,
-    "timeDay": 670,
-    "timeWeek": 661,
+    "timeDay": 637,
+    "timeWeek": 663,
     "timeMonth": 686,
     "timeYear": 659,
     "dailyMinutesDown": {
@@ -67,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 631,
-    "timeDay": 653,
-    "timeWeek": 636,
-    "timeMonth": 652,
+    "timeDay": 661,
+    "timeWeek": 638,
+    "timeMonth": 653,
     "timeYear": 631,
     "dailyMinutesDown": {
       "2021-04-21": 51
