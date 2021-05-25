@@ -24,8 +24,8 @@
     "slug": "plex-honk-ie",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 620,
@@ -33,9 +33,7 @@
     "timeWeek": 644,
     "timeMonth": 658,
     "timeYear": 620,
-    "dailyMinutesDown": {
-      "2021-05-25": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ombi.honk.ie",
