@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 689,
-    "timeDay": 661,
+    "timeDay": 658,
     "timeWeek": 715,
     "timeMonth": 723,
     "timeYear": 689,
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 623,
-    "timeDay": 652,
-    "timeWeek": 631,
+    "timeDay": 649,
+    "timeWeek": 632,
     "timeMonth": 650,
     "timeYear": 623,
     "dailyMinutesDown": {}
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 663,
-    "timeDay": 1445,
-    "timeWeek": 763,
+    "timeDay": 1440,
+    "timeWeek": 762,
     "timeMonth": 696,
     "timeYear": 663,
     "dailyMinutesDown": {}
@@ -58,19 +58,19 @@
     "url": "https://tautulli.honk.ie/auth/login?redirect_uri=/",
     "icon": "https://favicons.githubusercontent.com/tautulli.honk.ie",
     "slug": "tautulli-honk-ie",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 633,
-    "timeDay": 594,
-    "timeWeek": 686,
-    "timeMonth": 650,
+    "timeDay": 600,
+    "timeWeek": 687,
+    "timeMonth": 651,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2021-06-15": 1
+      "2021-06-15": 2
     }
   }
 ]
