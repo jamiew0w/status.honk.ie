@@ -13,8 +13,6 @@ sites:
   - name: ombi.honk.ie
     url: https://ombi.honk.ie
     icon: https://ombi.honk.ie/images/favicon/favicon.ico
-  - name: tautulli.honk.ie
-    url: https://tautulli.honk.ie/auth/login?redirect_uri=/
 
 assignees:
   - jamiew0w
