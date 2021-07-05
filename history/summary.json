@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 690,
-    "timeDay": 675,
-    "timeWeek": 669,
+    "timeDay": 676,
+    "timeWeek": 668,
     "timeMonth": 706,
     "timeYear": 690,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 623,
-    "timeDay": 645,
-    "timeWeek": 637,
+    "timeDay": 642,
+    "timeWeek": 636,
     "timeMonth": 635,
     "timeYear": 623,
     "dailyMinutesDown": {}
@@ -40,17 +40,19 @@
     "url": "https://ombi.honk.ie",
     "icon": "https://ombi.honk.ie/images/favicon/favicon.ico",
     "slug": "ombi-honk-ie",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 661,
-    "timeDay": 698,
-    "timeWeek": 643,
-    "timeMonth": 666,
-    "timeYear": 661,
-    "dailyMinutesDown": {}
+    "time": 663,
+    "timeDay": 1109,
+    "timeWeek": 706,
+    "timeMonth": 682,
+    "timeYear": 663,
+    "dailyMinutesDown": {
+      "2021-07-05": 1
+    }
   }
 ]
